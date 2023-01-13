@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=Fbb3a1&height=250&section=header&text=Eunyoung%20Ko&animation=fadeIn&&fontColor=133331&fontSize=55&fontAlign=75&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffd6cf&height=100&section=header&text=Eunyoung%20Ko&animation=fadeIn&&fontColor=c8888a&fontSize=75&fontAlign=70&fontAlignY=60)
 
 
 
@@ -23,8 +23,8 @@ Nice 2 Meet U :)</h3></div>
 ## :bulb: Tech Stack :bulb: 
 
 
-##### *Techs that i've used at least once*
-***
+##### <h3>*Techs that i've used at least once*</h3>
+
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
@@ -35,12 +35,12 @@ Nice 2 Meet U :)</h3></div>
 <br/>
 <br/>
 
-## :cherries: ME :cherries:
-
+## :seedling: ME :seedling:
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iameun02&show_icons=true&theme=dracula)
 
----
+<div align=center>
 
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)</div>
