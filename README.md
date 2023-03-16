@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffd6cf&height=100&section=header&text=Eunyoung%20Ko&animation=fadeIn&&fontColor=c8888a&fontSize=60&fontAlign=70&fontAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=fefbf7&height=100&section=header&text=Eunyoung%20Ko&animation=fadeIn&&fontColor=968d81&fontSize=50&fontAlign=75&fontAlignY=60)
 
 
 
@@ -10,8 +10,8 @@
  
 
 <div align=center> 
-<h3> Hi, Everyone !<br/>
-Nice 2 Meet U :)</h3></div>
+<h4> Hi, Everyone !<br/>
+Nice 2 Meet U :)</h4></div>
 <br/>
 <br/>
 <br/>
@@ -20,10 +20,10 @@ Nice 2 Meet U :)</h3></div>
 <br/>
 <div align=center>
 
-## Tech Stack 
+### <b>Tech Stack</b> 
 
 
-##### <h3>*Techs that i've used at least once*</h3>
+##### <h3></h3>
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -43,7 +43,7 @@ Nice 2 Meet U :)</h3></div>
 <br/>
 <br/>
 
-## ME
+### <b>ME</b>
 </div>
 
 
