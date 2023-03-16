@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=fefbf7&height=100&section=header&text=Eunyoung%20Ko&animation=fadeIn&&fontColor=968d81&fontSize=50&fontAlign=75&fontAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=fdf7ef&height=100&section=header&text=Eunyoung%20Ko&animation=fadeIn&&fontColor=968d81&fontSize=50&fontAlign=75&fontAlignY=60)
 
 
 
