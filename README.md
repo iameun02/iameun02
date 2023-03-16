@@ -21,6 +21,7 @@ Nice 2 Meet U :)</h4></div>
 <div align=center>
 
 ### <b>Tech Stack</b> 
+-------
 
 
 ##### <h3></h3>
@@ -44,6 +45,7 @@ Nice 2 Meet U :)</h4></div>
 <br/>
 
 ### <b>ME</b>
+-------
 </div>
 
 
