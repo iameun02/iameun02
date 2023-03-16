@@ -20,11 +20,11 @@ Nice 2 Meet U :)</h4></div>
 <br/>
 <div align=center>
 
-### <b>Tech Stack</b> 
--------
+## <b>Tech Stack</b> 
 
 
-##### <h3></h3>
+
+
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -44,8 +44,8 @@ Nice 2 Meet U :)</h4></div>
 <br/>
 <br/>
 
-### <b>ME</b>
--------
+## <b>ME</b>
+
 </div>
 
 
