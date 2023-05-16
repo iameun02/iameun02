@@ -55,7 +55,9 @@ Nice 2 Meet U :)</h4></div>
   <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> 
    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-   <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/><br>
+   <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br>
+   
 
 
 <br/>
