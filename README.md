@@ -65,17 +65,15 @@ Nice 2 Meet U :)</h4></div>
 
 ## <b>ME</b>
 
-<!-- </div>
-
-
-# <div align=center>
-</div> -->
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=iameun02&show_icons=true&theme=rose_pine" width="350" height="200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iameun02&layout=compact&theme=tokyonight" width="350" height="200"><br><br>
 
 
 
+<br>
+</div>
+
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiameun02&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![followers](https://img.shields.io/github/followers/iameun02?style=social)
+
