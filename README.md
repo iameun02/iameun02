@@ -57,7 +57,8 @@ Nice 2 Meet U :)</h4></div>
    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
    <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br>
-   
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white"/><br>
 
 
 <br/>
